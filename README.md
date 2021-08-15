@@ -1,4 +1,4 @@
-# tightCouplingMBDyn
+# MBDynSocketRecv
 
 Requirements:
 Python 3, MBDyn (with python interface)
